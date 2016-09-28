@@ -5,7 +5,7 @@ const {
 } = Ember;
 
 const {
-  contains: _contains,
+  includes: _contains,
   pushObject: _pushObject,
   removeObject: _removeObject
 } = emberArray();
